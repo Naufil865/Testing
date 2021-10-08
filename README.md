@@ -7,6 +7,6 @@ another new test by HA
 
 hacktoberfest-accepted
 Second Pull request HEHE
-aur kitna krna hai.....
+Latest Code please verify
 
 Great Bro
